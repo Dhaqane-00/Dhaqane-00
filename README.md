@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdilaahi Dhaqane</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text
 <h3 align="center">My professional field of expertise is full-stack programming, using Node.js and React on the backend and Flutter on the front end. I create beautiful, responsive user interfaces with Flutter that adjust to different screen sizes and devices with ease. I use Node.js's capabilities to create server-side apps that are reliable, scalable, and effective on the backend. In order to create dynamic and interactive frontend experiences that guarantee a seamless and interesting user journey, I combine this with React. I provide comprehensive solutions that excel in performance, maintainability, and user pleasure by integrating these technologies.</h3>
 
 - 📫 How to reach me **abdilaahimowliid@gmail.com**
