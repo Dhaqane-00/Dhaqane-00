@@ -8,8 +8,10 @@
 I'm a passionate Full Stack Developer with expertise in mobile and web development. Currently exploring the exciting world of AI and always eager to learn new technologies.
 
 ### 🤝 Connect with Me
+- 🌐 Website: https://Abdilaahi.vercel.app
 - 📧 Email: Abdilaahimowliid@gmail.com
 - 💼 [GitHub](https://github.com/Dhaqane-00)
+
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -31,11 +33,6 @@ I'm a passionate Full Stack Developer with expertise in mobile and web developme
 - Full Stack Development
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhaqane-00&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhaqane-00&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaqane-00&layout=compact&theme=tokyonight" alt="Top Languages" />
