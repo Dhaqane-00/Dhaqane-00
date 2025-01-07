@@ -16,12 +16,13 @@ I'm a passionate Full Stack Developer with expertise in mobile and web developme
 ## 🛠️ Tech Stack
 <div align="center">
 
-| Frontend | Backend | Mobile | Tools |
+| Frontend | Backend | Mobile  | Tools |
 |----------|---------|---------|-------|
 | React.js | Node.js | Flutter | Git |
-| HTML5    | Firebase| Android | VS Code |
-| CSS3     | Java    |         | Firebase |
-| JavaScript| Python  |         | REST APIs |
+| HTML5    | Firebase| React Native | VS Code |
+| CSS3     | Python  |         | Firebase |
+| JavaScript| Sanity |         | REST APIs |
+| Next.js  |         |         |           |
 
 </div>
 
@@ -32,10 +33,6 @@ I'm a passionate Full Stack Developer with expertise in mobile and web developme
 - Node.js
 - Full Stack Development
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dhaqane-00&theme=tokyo-night" alt="Contribution Graph" />
-</div>
 
 ## 📊 GitHub Stats
 
