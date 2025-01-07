@@ -32,7 +32,13 @@ I'm a passionate Full Stack Developer with expertise in mobile and web developme
 - Node.js
 - Full Stack Development
 
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Dhaqane-00&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
 ## 📊 GitHub Stats
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaqane-00&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -42,6 +48,12 @@ I'm a passionate Full Stack Developer with expertise in mobile and web developme
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhaqane-00&theme=tokyonight&row=1" alt="Trophies" />
 </div>
+
+## 🤝 Open for Collaboration
+- 👯 I'm looking to collaborate on innovative web and mobile projects
+- 💬 Open to mentoring and knowledge sharing
+- 🤝 Available for freelance projects
+
 
 ---
 <div align="center">
