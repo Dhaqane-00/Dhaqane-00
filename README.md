@@ -1,10 +1,4 @@
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF1&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+👋;I'm+Abdilaahi+Dhaqane;Full+Stack+Developer" alt="Typing SVG" />
-  </h1>
-</div>
-
-## 👨‍💻 About Me
+##                                                                                           👨‍💻
 I'm a passionate Full Stack Developer with expertise in mobile and web development. Currently exploring the exciting world of AI and always eager to learn new technologies. 🌐https://Abdilaahi.vercel.app
 
 ### 🤝 Connect with Me
