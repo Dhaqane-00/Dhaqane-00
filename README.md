@@ -1,4 +1,3 @@
-##                                                                                           👨‍💻
 I'm a passionate Full Stack Developer with expertise in mobile and web development. Currently exploring the exciting world of AI and always eager to learn new technologies. 🌐https://Abdilaahi.vercel.app
 
 ### 🤝 Connect with Me
@@ -20,12 +19,7 @@ I'm a passionate Full Stack Developer with expertise in mobile and web developme
 
 </div>
 
-## 💬 Ask me about
-- Flutter Development
-- Android Development
-- React.js
-- Node.js
-- Full Stack Development
+
 
 
 ## 📊 GitHub Stats
