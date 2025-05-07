@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Mobile+App+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-I'm a passionate Full Stack Developer with 3+ years of experience in building scalable web and mobile applications. My expertise spans across modern web technologies, mobile app development, and I'm currently diving deep into the fascinating world of AI and Machine Learning. I love creating elegant solutions to complex problems and am always excited to learn new technologies. 🌐 [Portfolio](https://Abdilaahi.vercel.app)
+I'm a passionate Full Stack Developer building scalable web and mobile applications. My expertise spans across modern web technologies, mobile app development, and I'm currently diving deep into the fascinating world of AI and Machine Learning. I love creating elegant solutions to complex problems and am always excited to learn new technologies. 🌐 [Portfolio](https://Abdilaahi.vercel.app)
 
 ## 🚀 About Me
 
