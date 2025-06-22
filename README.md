@@ -50,11 +50,6 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaqane-00&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 🚀 Daily Coding Time 
-<div align="center">
-  {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhaqane-00&theme=tokyonight&row=1" alt="Trophies" />
