@@ -84,7 +84,7 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
 
 ## 📫 How to Reach Me
 - 📧 Email: Abdilaahimowliid@gmail.com
-- 🌐 Portfolio: [Abdilaahi.vercel.app](https://Abdilaahi.vercel.app)
+- 🌐 Portfolio: [Abdilaahi.vercel.app](https://Dhaqane-00.vercel.app)
 - 💼 GitHub: [Dhaqane-00](https://github.com/Dhaqane-00)
 - 💬 Let's connect and discuss how we can work together!
 
