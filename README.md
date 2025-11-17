@@ -6,7 +6,7 @@
 
 I'm a passionate Full Stack Developer building scalable web and mobile applications. My expertise spans across modern web technologies, mobile app development, and I'm currently diving deep into the fascinating world of AI and Machine Learning. I love creating elegant solutions to complex problems and am always excited to learn new technologies. 🌐 [Portfolio](https://Dhaqane-00.vercel.app)
 
-## 🔝 Somali Top Developer Rank
+## 🔝 Somali Top Developers Rank
 <div align="center">
   <img src="https://user-badge.committers.top/somalia_private/Dhaqane-00.svg" />
 </div>
