@@ -55,33 +55,6 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
   <img src="https://github-profile-trophy.vercel.app/?username=Dhaqane-00&theme=tokyonight&row=1" alt="Trophies" />
 </div>
 
-## 💼 Professional Experience
-- **Full Stack Development**
-  - Building scalable web applications using Next js and Nest js
-  - Implementing RESTful APIs and GraphQL endpoints
-  - Database design and optimization
-  - Microservices architecture implementation
-
-- **Mobile App Development**
-  - Cross-platform development with Flutter and React Native
-  - Native mobile app development
-  - Mobile UI/UX implementation
-  - App store deployment and maintenance
-
-- **Web Development**
-  - Progressive Web Applications (PWA)
-  - Responsive design implementation
-  - Performance optimization
-  - SEO best practices
-
-- **Technical Skills**
-  - Version control with Git
-  - CI/CD pipeline implementation
-  - Cloud services (AWS, Firebase)
-  - Testing and debugging
-  - Agile methodologies
-
-
 ## 📫 How to Reach Me
 - 📧 Email: Abdilaahimowliid@gmail.com
 - 🌐 Portfolio: [Abdilaahi.vercel.app](https://Dhaqane-00.vercel.app)
