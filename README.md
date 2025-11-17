@@ -27,21 +27,6 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
-## 🛠️ Tech Stack
-<div align="center">
-
-| Frontend | Backend | Mobile  | Tools & Others |
-|----------|---------|---------|----------------|
-| React.js | Node.js | Flutter | Git & GitHub |
-| HTML5    | Firebase| React Native | VS Code |
-| CSS3     | Python  |         | Firebase |
-| JavaScript| Sanity |         | REST APIs |
-| Next.js  | Express.js |      | TypeScript |
-| Tailwind CSS | MongoDB | | Docker |
-| Redux    | PostgreSQL |      | AWS |
-| Material UI | GraphQL | | CI/CD |
-
 </div>
 
 ## 📊 GitHub Stats
