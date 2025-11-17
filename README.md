@@ -4,7 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Mobile+App+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-I'm a passionate Full Stack Developer building scalable web and mobile applications. My expertise spans across modern web technologies, mobile app development, and I'm currently diving deep into the fascinating world of AI and Machine Learning. I love creating elegant solutions to complex problems and am always excited to learn new technologies. 🌐 [Portfolio](https://Abdilaahi.vercel.app)
+I'm a passionate Full Stack Developer building scalable web and mobile applications. My expertise spans across modern web technologies, mobile app development, and I'm currently diving deep into the fascinating world of AI and Machine Learning. I love creating elegant solutions to complex problems and am always excited to learn new technologies. 🌐 [Portfolio](https://Dhaqane-00.vercel.app)
+
+## 🔝 Somali Top Developer Rank
+<div align="center">
+  <img src="https://user-badge.committers.top/somalia_private/Dhaqane-00.svg" />
+</div>
+
+## 📦Activity 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhaqane-00&theme=dark&t=33" />
+</div>
 
 ## 🚀 About Me
 
@@ -15,16 +25,6 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
 - 🎨 Strong focus on clean code, user experience, and modern design principles
 - 🌍 Working with clients and teams globally to deliver exceptional results
 
-## 📦
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhaqane-00&theme=dark&t=33" />
-</div>
-
-## 📦
-
-<div align="center">
-  <img src="https://user-badge.committers.top/somalia_private/Dhaqane-00.svg" />
-</div>
 
 ### 🤝 Connect with Me
 <div align="center">
