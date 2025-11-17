@@ -15,6 +15,9 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
 - 🎨 Strong focus on clean code, user experience, and modern design principles
 - 🌍 Working with clients and teams globally to deliver exceptional results
 
+## 📦
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhaqane-00&theme=dark&t=33)](https://github.com/Mustafaa4A)
+
 ### 🤝 Connect with Me
 <div align="center">
   <a href="https://Abdilaahi.vercel.app" target="_blank">
