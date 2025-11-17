@@ -16,9 +16,9 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
 - 🌍 Working with clients and teams globally to deliver exceptional results
 
 ## 📦
-<div align="center">
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=Dhaqane-00&theme=dark&t=33)](https://github.com/Dhaqane-00)
-</div>
+
 
 ### 🤝 Connect with Me
 <div align="center">
