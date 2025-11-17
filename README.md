@@ -20,7 +20,9 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
   <img src="https://streak-stats.demolab.com?user=Dhaqane-00&theme=dark&t=33" />
 </div>
 ##
- [![committers.top badge](https://user-badge.committers.top/somalia_private/Dhaqane-00.svg)](https://user-badge.committers.top/somalia_private/Dhaqane-00)
+<div align="center">
+  <img src="[![committers.top badge](https://user-badge.committers.top/somalia_private/Dhaqane-00.svg)](https://user-badge.committers.top/somalia_private/Dhaqane-00)" />
+</div>
 
 ### 🤝 Connect with Me
 <div align="center">
