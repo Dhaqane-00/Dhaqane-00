@@ -15,15 +15,15 @@ I'm a passionate Full Stack Developer building scalable web and mobile applicati
 - 🎨 Strong focus on clean code, user experience, and modern design principles
 - 🌍 Working with clients and teams globally to deliver exceptional results
 
-##📦
+## 📦
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Dhaqane-00&theme=dark&t=33" />
 </div>
 
-##📦
+## 📦
 
 <div align="center">
-  <img src="[![committers.top badge](https://user-badge.committers.top/somalia_private/Dhaqane-00.svg)](https://user-badge.committers.top/somalia_private/Dhaqane-00)" />
+  <img src="https://user-badge.committers.top/somalia_private/Dhaqane-00.svg" />
 </div>
 
 ### 🤝 Connect with Me
